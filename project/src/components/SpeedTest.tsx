@@ -148,3 +148,4 @@ export const SpeedTest: React.FC<SpeedTestProps> = ({ onComplete }) => {
     </div>
   );
 };
+//fixed the build error
